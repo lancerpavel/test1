@@ -1,5 +1,5 @@
 <?php
-
+// added this
 namespace backend\controllers;
 
 include(__DIR__.'/../../common/components/iloveimg/init.php');
